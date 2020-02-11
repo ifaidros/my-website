@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+    color: maroon;
+    background-color: tan;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    overflow:hidden;
+}
+
+.main {
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 36px;
+    padding: 10px;
+    border-bottom: 1px solid #5D6063;
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 31%;
+    margin: 20px 1.15%;
+    height: 160px;
+    background-color: deepskyblue;
+}
+
+
+
+
